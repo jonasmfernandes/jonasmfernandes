@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jonas! 
 ![Screenshot from 2021-03-09 12-22-09](https://user-images.githubusercontent.com/69450120/110494503-6f13fb00-80d2-11eb-9e93-455649229bbf.png)
 
 <!--
