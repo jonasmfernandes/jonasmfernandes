@@ -13,6 +13,9 @@ My name is Jonas, I'm 17 years old and I'm a self-taught student. I am studying 
 - 🥔 I really don't like potatoes.
 - 🎥 I love star wars.
 
+- - -
+
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 <!--
 **jonasmfernandes/jonasmfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
