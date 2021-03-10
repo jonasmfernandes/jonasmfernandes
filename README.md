@@ -5,23 +5,18 @@
 
 My name is Jonas, I'm 17 years old and I'm a self-taught student. I am studying to become a complete front-end developer and in the future a fullstack. I am focused on Html, Css and JavaScript but always looking to learn more from each area, including web design. I like programming because with it we can revolutionize the world and bring a lot of automation and ease to us.
 
+- - -
+
+🎓 - I’m currently working on improve my soft-skills and programming abilities.
+📚 - I’m currently learning Html, Css, JavaScript and web design with Figma.
+👯 - I am looking to collaborate on projects that will give me knowledge and experience to expand my studies.
+🥔 - I really don't like potatoes.
+🎥 - I love star wars.
+
 <!--
 **jonasmfernandes/jonasmfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
