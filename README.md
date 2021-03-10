@@ -13,12 +13,11 @@ My name is Jonas, I'm 17 years old and I'm a self-taught student. I am studying 
 - 🥔 I really don't like potatoes.
 - 🎥 I love star wars.
 
-- - -
+## Where can you find me?
 
 [<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joninhasmf/) 
 [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mfernandes.jonas@gmail.com)
 [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jonas-monteiro-fernandes-a676641b7/)
-[<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joninhasmf/)
 <!--
 **jonasmfernandes/jonasmfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/)
