@@ -1,5 +1,5 @@
 
-### Hi there, I'mJonas! 
+### Hi there, I'm Jonas! 
 ![bannerv3](https://user-images.githubusercontent.com/69450120/111510924-feea2280-872c-11eb-8fb3-a83fb9470eb3.png)
 
 ## About me 
