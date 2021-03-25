@@ -14,7 +14,7 @@ My name is Jonas, I'm 17 years old and I'm a self-taught student. I am studying 
 - 🥔 I really don't like potatoes
 - 🎥 I love star wars
 
-## Where can you find me?a
+## Where can you find me?
 
 [<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joninhasmf/) 
 [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mfernandes.jonas@gmail.com)
