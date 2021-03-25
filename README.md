@@ -12,7 +12,7 @@ My name is Jonas, I'm 17 years old and I'm a self-taught student. I am studying 
 - 📚 I’m currently learning **Html, Css, JavaScript and web design with Figma**
 - 👯 I am looking to collaborate on projects that will give me knowledge and experience to expand my studies
 - 🥔 I really don't like potatoes
-- 🎥 I love star warsaa
+- 🎥 I love star warsa
 
 ## Where can you find me?a
 
