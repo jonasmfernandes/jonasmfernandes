@@ -4,12 +4,12 @@
 
 ## About me 
 
-My name is Jonas, I'm 18 years old and I'm a self-taught student. I am studying to become a complete front-end developer and in the future a fullstack. I am focused on Html, Css and JavaScript but always looking to learn more from each area, including web design. I like programming because with it we can revolutionize the world and bring a lot of automation and ease to us.
+I'm 19 years old and I'm a self-taught student. I am studying to become a complete front-end developer and in the future a fullstack. I am focused on Html, Css and JavaScript but always looking to learn more from each area, including web design. I like programming because with it we can revolutionize the world and bring a lot of automation and ease to us.
 
 - - -
 
 - 🎓 I’m currently working on improve my soft-skills and programming abilities
-- 📚 I’m currently learning **Html, Css, JavaScript and web design with Figma**
+- 📚 I’m currently learning **Html, Css, JavaScript, ReactJS and web design with Figma**
 - 👯 I am looking to collaborate on projects that will give me knowledge and experience to expand my studies
 - 🥔 I really don't like potatoes
 - 🎥 I love star wars
