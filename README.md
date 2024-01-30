@@ -3,7 +3,7 @@
 
 ## About me 
 
-I'm 19 years old and I'm a self-taught student. I am studying to become a complete front-end developer and in the future a fullstack. I am focused on Html, Css and JavaScript but always looking to learn more from each area, including web design. I like programming because with it we can revolutionize the world and bring a lot of automation and ease to us.
+I'm 20 years old and I'm a self-taught student. I am studying to become a complete front-end developer and in the future a fullstack. I am focused on Html, Css and JavaScript but always looking to learn more from each area, including web design. I like programming because with it we can revolutionize the world and bring a lot of automation and ease to us.
 
 - - -
 
