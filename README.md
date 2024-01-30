@@ -8,7 +8,7 @@ I'm 19 years old and I'm a self-taught student. I am studying to become a comple
 - - -
 
 - 🎓 I’m currently working on improve my soft-skills and programming abilities
-- 📚 I’m currently learning **Html, Css, JavaScript, ReactJS and web design with Figma**
+- 📚 I’m currently building projects with **Html, Css/Sass, JavaScript, ReactJS and web design with Figma**
 - 👯 I am looking to collaborate on projects that will give me knowledge and experience to expand my studies
 
 ## Where can you find me?
