@@ -13,8 +13,8 @@ I'm 20 years old and I'm a self-taught student. I am studying to become a comple
 
 ## Where can you find me?
 
-[<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jonasmontiero/) 
-[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mfernandes.jonas@gmail.com)
+[<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ojonasmonteiero/) 
+[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:mfernandes.jonas@gmail.com)
 [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jonas-monteiro-fernandes-a676641b7/)
 <!--
 **jonasmfernandes/jonasmfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
