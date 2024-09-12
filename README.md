@@ -1,25 +1,11 @@
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+ 
+I'm [**Jonas**](https://dev-jonas.vercel.app), a software developer based in Brazil. 
 
-### Hi there, I'm Jonas!
+I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
-## About me 
+Outside of work, I'm interested in furthering my knowledge in the tech world. I also build many side projects (most of them are in private repositories).
 
-I'm 20 years old and I'm a self-taught student. I am studying to become a complete front-end developer and in the future a fullstack. I am focused on Html, Css and JavaScript but always looking to learn more from each area, including web design. I like programming because with it we can revolutionize the world and bring a lot of automation and ease to us.
-
-- - -
-
-- 🎓 I’m currently working on improve my soft-skills and programming abilities
-- 📚 I’m currently building projects with **Html, Css/Sass, JavaScript, ReactJS and web design with Figma**
-- 👯 I am looking to collaborate on projects that will give me knowledge and experience to expand my studies
-
-## Where can you find me?
-
-[<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ojonasmonteiro/) 
-[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:mfernandes.jonas@gmail.com)
-[<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jonas-monteiro-fernandes-a676641b7/)
-<!--
-**jonasmfernandes/jonasmfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/)
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
+#### Fun Facts:
+- I don't like tea.
+- Stardew Valley is my favorite game
