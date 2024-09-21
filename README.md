@@ -8,4 +8,4 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 #### Fun Facts:
 - I don't like tea.
-- Stardew Valley is my favorite game
+- Stardew Valley is my favorite game.
